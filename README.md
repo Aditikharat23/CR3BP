@@ -1,7 +1,10 @@
 # CR3BP
 
 Circular restricted three body simualtion for Earth - Moon system
+
+
 <img width="438" alt="image" src="https://github.com/Aditikharat23/CR3BP/assets/76622823/548884ac-c9be-4bdc-8088-feced2e07bf7">
+
 
 <img width="877" alt="image" src="https://github.com/Aditikharat23/CR3BP/assets/76622823/9e0f4cd8-f374-4d41-b91c-1d9ba685fe7f">
 
