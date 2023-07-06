@@ -1,6 +1,6 @@
 # CR3BP
 
-Circular restricted three body simualtion for Earth - Moon system
+Circular restricted three body simulation for Earth - Moon system. Few outputs are attached below: 
 
 
 <img width="438" alt="image" src="https://github.com/Aditikharat23/CR3BP/assets/76622823/548884ac-c9be-4bdc-8088-feced2e07bf7">
